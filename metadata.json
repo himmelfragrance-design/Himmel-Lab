@@ -1,0 +1,6 @@
+{
+  "name": "Himmel Lab - Bespoke Perfume",
+  "description": "Platform Jasa Pembuatan Parfum Bespoke Elegan serta Dashboard Manajemen Order, Member, Galeri Portofolio, dan Pelacakan Status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
